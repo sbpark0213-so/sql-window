@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 .env
 .env.*
+
+# 맥 · 개인 설정
+.DS_Store
+.claude/settings.local.json
